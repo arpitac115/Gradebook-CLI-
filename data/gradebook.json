@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Johanne"
+    },
+    {
+      "id": 2,
+      "name": "Samaira"
+    },
+    {
+      "id": 3,
+      "name": "Alizeh"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS771",
+      "title": "Introduction to ML"
+    },
+    {
+      "code": "MTH111",
+      "title": "Linear Algebra"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "CS771",
+      "grades": [
+        90,
+        85
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "MTH111",
+      "grades": [
+        88,
+        92
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "CS771",
+      "grades": [
+        78,
+        92
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "MTH111",
+      "grades": [
+        95,
+        89
+      ]
+    }
+  ]
+}

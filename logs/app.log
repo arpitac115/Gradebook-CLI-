@@ -1,0 +1,5 @@
+2026-11-16 23:40:57,927 - ERROR - Corrupted JSON file in data/gradebook.json
+2026-11-16 23:40:57,929 - ERROR - Operation failed: Expecting value: line 1 column 1 (char 0)
+2026-11-16 23:42:05,595 - ERROR - Corrupted JSON file in data/gradebook.json
+2026-11-16 23:42:05,595 - ERROR - Operation failed: Expecting value: line 1 column 1 (char 0)
+2026-11-16 23:44:52,811 - INFO - Data loaded from data/gradebook.json
