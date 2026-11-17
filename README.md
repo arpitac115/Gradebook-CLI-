@@ -35,7 +35,7 @@ gradebook/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/arpitac115/Gradebook-CLI-.git>
 cd gradebook
 ```
 
